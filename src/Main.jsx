@@ -7,9 +7,9 @@ class Main extends React.Component {
     super();
 
     this.state = {
-      loan: 5000,
+      loan: "",
       formattedLoan: "",
-      interestRate: 6.5,
+      interestRate: "",
       formattedInterestRate: "",
       id: 1,
     };

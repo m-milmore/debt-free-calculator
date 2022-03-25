@@ -1,14 +1,5 @@
 html {
   scroll-behavior: smooth;
-  /* overflow-x: hidden; */
-  /* margin-right: calc(-1 * (100vw - 100%)); */
-  /* width: 100vw; */
-  /* margin-right: calc(100% - 100vw); */
-  /* overflow-y: scroll; */
-  /* height: 101%; */
-  /* overflow-y: overlay; */
-  /* margin-left: calc(100vw - 100%); */
-  /* margin-right: 0; */
 }
 
 body {
@@ -18,21 +9,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* overflow: scroll; */
-  /* width: calc(100vw - 34px); */
-  /* padding-left: 34px; */
-  /* margin-right: calc(-1 * (100vw - 100%)); */
-  /* margin-right: calc(100vw - 100%); */
-  /* overflow-x: hidden; */
-  /* padding-left: 17px; */
-  /* width: calc(100vw - 17px); */
-  /* overflow-y: scroll; */
-  /* margin-left: calc(50vw - 500px); */
-  /* overflow-x: hidden; */
-  /* width: 100vw; */
-  /* margin-right: calc(100vw - 100%); */
-  /* overflow: visible; */
-  /* overflow-y: hidden; */
 }
 
 *,

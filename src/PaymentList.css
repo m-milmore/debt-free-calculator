@@ -5,8 +5,10 @@
 h5 {
   font-weight: 400;
   margin: 0;
+	user-select: none;
 }
 
 li {
 	font-size: 1.5rem;
+	user-select: none;
 }

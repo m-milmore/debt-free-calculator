@@ -3,7 +3,7 @@ import "./Dashboard.css";
 import ResetCalculator from "./ResetCalculator";
 import PaymentList from "./PaymentList";
 
-const minPaymentPercentage = 0.05;
+const minPaymentPercentage = 0.01;
 const monthlyInterestPercentage = 1 / 100 / 12;
 
 class Dashboard extends React.Component {
