@@ -108,7 +108,7 @@ class Dashboard extends React.Component {
             curBalance: newBalance <= 0 ? 0 : newBalance,
           },
           () => {
-            if (this.state.curBalance == 0) {
+            if (this.state.curBalance === 0) {
               this.paymentButton.setAttribute("disabled", true);
               this.paymentInput.setAttribute("disabled", true);
               this.setState({
